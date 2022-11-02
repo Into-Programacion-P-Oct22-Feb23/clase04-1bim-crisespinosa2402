@@ -10,12 +10,14 @@ package ejemplo01;
  * @author reroes
  */
 public class Ejemplo03 {
+
     public static void main(String[] args) {
         // Ejemplo 
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
-        
-        System.out.println(nombreEstudiante+" "+apellidoEstudiante+ " "+ nacimiento);
+        String nombreEstudiante = "Cristian Alejandro";
+        String apellidoEstudiante = "ESpinosa Gonza";
+        int nacimiento = 2003;
+
+        System.out.println(nombreEstudiante + " " + apellidoEstudiante + " " + 
+                nacimiento);
     }
 }
